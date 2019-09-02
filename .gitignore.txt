@@ -1,4 +1,7 @@
-.settings/
+**/.settings/**
+**.settings**
+**/mvn**
+**/mvn/**
 .classpath/
 ./project/
 mvnw.cmd/
