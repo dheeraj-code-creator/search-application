@@ -20,7 +20,7 @@ import com.example.restspringbootexample.service.UserService;
 @RestController
 @RequestMapping(value = "/userinfo")
 public class UserController {
-
+// autowired
 	@Autowired
 	private UserService userService;
 
