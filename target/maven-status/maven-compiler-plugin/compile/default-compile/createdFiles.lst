@@ -1,0 +1,5 @@
+com\example\restspringbootexample\controller\UserController.class
+com\example\restspringbootexample\entitie\User.class
+com\example\restspringbootexample\repository\UserRepository.class
+com\example\restspringbootexample\RestSpringBootExampleApplication.class
+com\example\restspringbootexample\service\UserService.class
