@@ -7,6 +7,8 @@ import javax.persistence.Id;
 @Entity
 // @Table(name = "User")
 public class User {
+	
+	// feature branch
 	@Id
 	@Column
 	private String userId;
