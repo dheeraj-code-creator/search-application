@@ -8,4 +8,5 @@ import com.example.restspringbootexample.entitie.User;
 @Repository
 public interface UserRepository extends JpaRepository<User, String> {
 
+    // story branch
 }
